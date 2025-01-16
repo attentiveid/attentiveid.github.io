@@ -1,0 +1,167 @@
+# Base configuration
+baseURL = "https://attentiveid.github.io/"
+languageCode = "en-us"
+title = "Attentive | Let Us Help You"
+theme = "vex"
+summarylength = "20"
+googleAnalytics = "" # Ex: UA-123-45
+disableLanguages = [] # disable language from here
+
+# Unsafe html
+[markup.goldmark.renderer]
+unsafe = false
+
+# Plugins
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+[[params.plugins.css]]
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
+
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
+
+# Set default params
+[params]
+logo = "images/logo.png"
+logo_width="100px"
+
+description = "This is meta description"
+author = "Attentive"
+
+currency = "IDR"
+contact_form_action = "#" # contact form works with https://formspree.io
+
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Snipcart
+[params.snipcart]
+enable = false
+snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+
+# Subscription
+[params.subscription]
+mailchimp_form_action = "" # replace this url with yours
+mailchimp_form_name = "" # replace this code with yours
+
+# Languages
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Konsulin](https://konsulin.care/)"
+
+[Languages.id]
+languageName = "Id"
+languageCode = "id-id"
+contentDir = "content/indonesia"
+weight = 2
+copyright = "Didesain Oleh [Themefisher](https://themefisher.com/) & Dikembangkan Oleh [Konsulin](https://konsulin.care/)"
+
+# Navigation in English
+[[Languages.en.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "Products"
+url = "products/"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Review"
+pre = "#"
+url = "testimonial"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+[[Languages.en.menu.footer]]
+name = "Blog"
+url = "blog/"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 3
+
+[[Languages.en.menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 4
+
+# Navigation in Bahasa Indonesia
+[[Languages.id.menu.main]]
+name = "Home"
+url = "fr/"
+weight = 1
+
+[[Languages.id.menu.main]]
+name = "Products"
+url = "products/"
+weight = 2
+
+[[Languages.id.menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 3
+
+[[Languages.id.menu.main]]
+name = "Review"
+pre = "#"
+url = "testimonial"
+weight = 4
+
+[[Languages.id.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+[[Languages.id.menu.footer]]
+name = "Blog"
+url = "blog/"
+weight = 1
+
+[[Languages.id.menu.footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
+
+[[Languages.id.menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 3
+
+[[Languages.id.menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 4
