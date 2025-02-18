@@ -1,53 +1,21 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
-  button:
-    enable: true
-    label: "Browse All Products"
-    link: "products/"
+  image: "images/hero.png"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
-
-  # feature at the left of the image
-  left_side:
-    # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-      # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-  # feature at the right of the image
-  right_side:
-    # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-      # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+  title1: "Hello,"
+  title2: "We’re attentive"
+  content1: "Attentive (əˈten(t)iv) is a psychology service bureau that was established in 2020. Attentive provides scientific-based, measurable, and reliable psychology services in helping clients."
+  content2: "Attentive seeks to understand human thoughts, feelings, and behavior with the aim of providing appropriate and effective assistance according to the needs of each client. All forms of treatment from professional counseling and psychoeducation to research are our way of showing our concern for your mental health."
+  tagline: "#WeFocusOnYou"
+  image: "images/introduction.png"
+  button:
+    enable: true
+    label: "See Our Company Profile"
+    link: "/"
 
 ############################# promo ############################
 promo:

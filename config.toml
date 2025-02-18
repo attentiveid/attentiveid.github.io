@@ -1,5 +1,6 @@
 # Base configuration
 baseURL = "https://attentiveid.github.io/"
+#baseIcon = "images/attentive-logo-01.png"
 languageCode = "en-us"
 title = "Attentive | Let Us Help You"
 theme = "vex"
@@ -34,7 +35,7 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # Set default params
 [params]
-logo = "images/logo.png"
+logo = "images/attentive-logo-01.png"
 logo_width="100px"
 
 description = "This is meta description"
