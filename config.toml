@@ -8,6 +8,7 @@ summarylength = "20"
 googleAnalytics = "" # Ex: UA-123-45
 disableLanguages = [] # disable language from here
 
+
 # Unsafe html
 [markup.goldmark.renderer]
 unsafe = false
@@ -43,6 +44,7 @@ author = "Attentive"
 
 currency = "IDR"
 contact_form_action = "#" # contact form works with https://formspree.io
+whatsappLink = "https://wa.me/yourwhatsapplinks"
 
 [params.preloader]
 enable = true

@@ -20,18 +20,32 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
-  title: "Designed by professional , the benefit for creative gigs"
+  image: "images/core.png"
+  title: "How can we help?"
   content:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
     nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
     <br><br>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  items:
+    - title: "Adult Psychotherapy"
+      icon: "images/core-icon-1.png"
+      content: "Our experienced therapists provide a safe and supportive environment to address various mental health concerns, develop coping strategies, and foster personal growth."
+    - title: "Child & Adolescent Psychotherapy"
+      icon: "images/core-icon-2.png"
+      content: "Provide a safe and supportive space for young individuals to explore their emotions, develop coping strategies, address various mental health concerns, improve their mental well-being, and enhance their overall emotional health."
+    - title: "Family or Couple Therapy"
+      icon: "images/core-icon-3.png"
+      content: "Our experienced therapists aim to help families and couples overcome challenges, strengthen their bond, and find effective solutions for a familial cohesiveness and more fulfilling partnership."
 
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Our Psychologists"
+#  button:
+#    enable: true
+#    label: "Schedule"
+#    link: "/"
   items:
     # about product item loop
     - image: "images/showcase/showcase-4.png"
@@ -41,8 +55,8 @@ about_product:
         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
         quas, quo harum deserunt consequatur cumque!"
       button:
-        enable: false
-        label: "Check Features"
+        enable: true
+        label: "Schedule appointment with the psychologist"
         link: "#/"
 
     # about product item loop
@@ -53,8 +67,8 @@ about_product:
         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
         quas, quo harum deserunt consequatur cumque!"
       button:
-        enable: false
-        label: "Check Features"
+        enable: true
+        label: "Schedule appointment with the psychologist"
         link: "#/"
 
 #################################### Products ########################
