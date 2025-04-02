@@ -74,7 +74,25 @@ about_product:
 #################################### Products ########################
 products:
   enable: true
-  title: "Checkout Our All Products"
+  title: "We can also help you with"
+  footer_title: "and many more..."
+  button_catalogue:
+    enable: true
+    label: "See Our Product Catalogue"
+    link: "/"
+  items:
+    - icon: "images/research-class.png"
+      title: "Research Class"
+      content: "Enhance your analytical skills with our specialized training where expert instructors guide you data analysis. Additionally, our research tutorial service provides expert guidance."
+    - icon: "images/int-apt-test.png"
+      title: "Intelligence and Aptitude Test"
+      content: "Covers various assessments including interest and aptitude tests, IQ assessments, Kraepelin tests, and consultations to guide them toward making informed decisions about their future endeavors."
+    - icon: "images/mock-itvw.png"
+      title: "Mock Interview (Training)"
+      content: "Support someone who wants to redefine their interview skills. Our facilitators will consist of HR Professionals who already conduct thousands of interviews in daily basis."
+    - icon: "images/mental-health-map.png"
+      title: "Mental Health Mapping"
+      content: "Offers a comprehensive assessment of the key factors influencing mental health outcomes in the workplace to provide actionable insights to help businesses and employees."
 
 ################################## Subscription ###################
 subscription:
@@ -84,25 +102,37 @@ subscription:
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
   placeholder: "Your Email Address Here"
 
+############################## Contact Us ######################
+contact_us:
+  enable: true
+  title: "Contact Us"
+  qr_code: "images/qr-wa.png"
+  qr_text: "Scan to contact us via Whatsapp"
+  wa_img: "images/wa.png"
+  content1: "Our Location:"
+  content2: "Jl. Teratai IV No.4, RT.3/RW.2, Tj. Bar., Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12530"
+  location_img: "images/loc.png"
+  wa_button:
+    enable: true
+    label: "Scan to contact us via Whatsapp"
+    link: "/"
+
 ############################## Testimonial ##########################
 testimonial:
   enable: true
-  title: "Watch Review"
+  title: "What they say about us"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Klien - Counseling Online, 28 y.o."
+      image: "images/q.png"
+      content: "Sabar dan adaptif menangani klien yang malas dan maju-mundur progresnya. Selalu berusaha untuk memberikan tools yang doable."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Klien - Offline Psychotheraphy, 24 y.o."
+      image: "images/q.png"
+      content: "Going therapy here, was a truly bittersweet journey for me. It was very challenging but very deeply moving and growing for me… I always tell me friends about going here, and always recommend them to go here as #1 reference."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Klien - Online Psychotherapy, 31 y.o."
+      image: "images/q.png"
+      content: "Psikolog sangat memahami kebutuhan saya sehingga selama prosesnya pun tidak memburu-buru / memaksakan kehendaknya. Psikolog juga dapat memberikan ruang yg aman dan nyaman untuk saya bercerita."
