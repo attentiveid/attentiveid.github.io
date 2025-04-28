@@ -7,7 +7,8 @@ banner:
 features:
   enable: true
   title1: "Hello,"
-  title2: "We’re attentive"
+  title2: "We’re"
+  title3: "attentive"
   content1: "Attentive (əˈten(t)iv) is a psychology service bureau that was established in 2020. Attentive provides scientific-based, measurable, and reliable psychology services in helping clients."
   content2: "Attentive seeks to understand human thoughts, feelings, and behavior with the aim of providing appropriate and effective assistance according to the needs of each client. All forms of treatment from professional counseling and psychoeducation to research are our way of showing our concern for your mental health."
   tagline: "#WeFocusOnYou"
@@ -38,38 +39,147 @@ promo:
       icon: "images/core-icon-3.png"
       content: "Our experienced therapists aim to help families and couples overcome challenges, strengthen their bond, and find effective solutions for a familial cohesiveness and more fulfilling partnership."
 
-############################# About Product #######################
-about_product:
+############################# psychologists ############################
+psychologists:
   enable: true
   title: "Our Psychologists"
-#  button:
-#    enable: true
-#    label: "Schedule"
-#    link: "/"
+  button:
+    enable: true
+    label: "Schedule"
+    link: "/"
   items:
-    # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: true
-        label: "Schedule appointment with the psychologist"
-        link: "#/"
-
-    # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: true
-        label: "Schedule appointment with the psychologist"
-        link: "#/"
+    - name: Syazka Kirani Narindra
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Syazka.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Anggita Panjaitan
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Gita.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Ni Putu Mayda A. A
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Mayda.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Anggriana Angguningtyas
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Anggun.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Risky Adinda
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Dinda.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Ilham Anggi P
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Ilham.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Dwi Ningsih A
+      title:  M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Nichi.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Putri Dewinta
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Dewinta.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Sekarini Andika Permatasari
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Sekar.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Riskia Ramadhina
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Kia.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Disa Nisrina Listiani
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Disa.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Jeanete Ophilia Papilaya,
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Jean.jpg
+      specializations:
+        - Gangguan Kepribadian
+        - Gangguan Kecemasan
+        - Depresi
+      experience: 6 Tahun
+      sipp: "1234567890"
+      whatsapp: "https://wa.me/6281234567890"
 
 #################################### Products ########################
 products:
@@ -114,7 +224,7 @@ contact_us:
   location_img: "images/loc.png"
   wa_button:
     enable: true
-    label: "Scan to contact us via Whatsapp"
+    label: "Click here to contact us via Whatsapp"
     link: "/"
 
 ############################## Testimonial ##########################
