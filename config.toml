@@ -23,7 +23,7 @@ link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
 [[params.plugins.css]]
-#link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
 
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
@@ -31,8 +31,8 @@ link = "plugins/jquery/jquery.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-#[[params.plugins.js]]
-#link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
+[[params.plugins.js]]
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # Set default params
 [params]
@@ -51,10 +51,10 @@ whatsappLink = "https://wa.me/yourwhatsapplinks"
 enable = true
 preloader = "" # use .png , .svg or .gif format
 
-## Snipcart
-#[params.snipcart]
-#enable = false
-#snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+# Snipcart
+[params.snipcart]
+enable = false
+snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
 # Subscription
 [params.subscription]
