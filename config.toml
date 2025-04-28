@@ -23,7 +23,7 @@ link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
 [[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
+#link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
 
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
@@ -31,13 +31,14 @@ link = "plugins/jquery/jquery.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
+#[[params.plugins.js]]
+#link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # Set default params
 [params]
 logo = "images/attentive-logo-01.png"
 logo_width="100px"
+burger_img = "images/burger.png"
 
 description = "This is meta description"
 author = "Attentive"
@@ -50,10 +51,10 @@ whatsappLink = "https://wa.me/yourwhatsapplinks"
 enable = true
 preloader = "" # use .png , .svg or .gif format
 
-# Snipcart
-[params.snipcart]
-enable = false
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+## Snipcart
+#[params.snipcart]
+#enable = false
+#snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
 # Subscription
 [params.subscription]
@@ -77,50 +78,76 @@ copyright = "Didesain Oleh [Themefisher](https://themefisher.com/) & Dikembangka
 
 # Navigation in English
 [[Languages.en.menu.main]]
-name = "Home"
-url = "/"
+name = "Introduction"
+pre = "#"
+url = "features"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Products"
-url = "products/"
+name = "Services"
+pre = "#"
+url = "services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Blog"
-url = "blog/"
+name = "Psychologists"
+pre = "#"
+url = "psychologists"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Review"
+name = "Other Product"
 pre = "#"
-url = "testimonial"
+url = "other"
 weight = 4
 
 [[Languages.en.menu.main]]
+name = "Client Testimony"
+pre = "#"
+url = "testimonials"
+weight = 5
+
+[[Languages.en.menu.main]]
 name = "Contact"
-url = "contact/"
+pre = "#"
+url = "contact"
+weight = 6
+
+[[Languages.en.menu.footer]]
+name = "Introduction"
+pre = "#"
+url = "introduction/"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "Services"
+pre = "#"
+url = "services"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Psychologists"
+pre = "#"
+url = "psychologists"
+weight = 3
+
+[[Languages.en.menu.footer]]
+name = "Other Product"
+pre = "#"
+url = "other"
+weight = 4
+
+[[Languages.en.menu.footer]]
+name = "Client Testimony"
+pre = "#"
+url = "testimonials"
 weight = 5
 
 [[Languages.en.menu.footer]]
-name = "Blog"
-url = "blog/"
-weight = 1
-
-[[Languages.en.menu.footer]]
 name = "Contact"
-url = "contact/"
-weight = 2
-
-[[Languages.en.menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 3
-
-[[Languages.en.menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
+pre = "#"
+url = "contact"
+weight = 6
 
 # Navigation in Bahasa Indonesia
 [[Languages.id.menu.main]]
