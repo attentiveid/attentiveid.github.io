@@ -7,7 +7,8 @@ banner:
 features:
   enable: true
   title1: "Hello,"
-  title2: "We’re attentive"
+  title2: "We’re"
+  title3: "attentive"
   content1: "Attentive (əˈten(t)iv) is a psychology service bureau that was established in 2020. Attentive provides scientific-based, measurable, and reliable psychology services in helping clients."
   content2: "Attentive seeks to understand human thoughts, feelings, and behavior with the aim of providing appropriate and effective assistance according to the needs of each client. All forms of treatment from professional counseling and psychoeducation to research are our way of showing our concern for your mental health."
   tagline: "#WeFocusOnYou"
@@ -38,38 +39,218 @@ promo:
       icon: "images/core-icon-3.png"
       content: "Our experienced therapists aim to help families and couples overcome challenges, strengthen their bond, and find effective solutions for a familial cohesiveness and more fulfilling partnership."
 
-############################# About Product #######################
-about_product:
+############################# psychologists ############################
+psychologists:
   enable: true
   title: "Our Psychologists"
-#  button:
-#    enable: true
-#    label: "Schedule"
-#    link: "/"
+  button:
+    enable: true
+    label: "Schedule"
+    link: "/"
   items:
-    # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: true
-        label: "Schedule appointment with the psychologist"
-        link: "#/"
-
-    # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
-      content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable: true
-        label: "Schedule appointment with the psychologist"
-        link: "#/"
+    - name: Syazka Kirani Narindra
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Syazka.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Gangguan kepribadian
+        - Trauma
+        - Gangguan mood (Depresi, distimia, bipolar)
+        - ADHD
+        - Relasi interpersonal / hubungan romantis
+        - Gangguan kecemasan
+        - Pengembangan Diri
+        - OCD
+      experience: 6 Tahun
+      sipp: "20190974-2021-02-1552"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Anggita Panjaitan
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Gita.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Trauma & isu terkait emosi
+        - ADHD Dewasa
+        - Gangguan Kecemasan
+        - Gangguan Kepribadian
+        - Relasi interpersonal/hubungan romantis
+        - Masalah terkait pekerjaan, karir, dan pengembangan diri
+        - Masalah terkait Gender
+        - Praktisi metode Brainspotting
+      experience: 5 Tahun
+      sipp: "20200657-2023-02-2669"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Ni Putu Mayda A. A
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Mayda.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Hubungan romantis
+        - Masalah dalam hubungan interpersonal
+        - Masalah dalam hubungan keluarga
+        - Kecemasan
+        - Masalah mood dan emosi
+        - Pekerjaan dan karir
+        - Stres dan burnout
+        - Gangguan kepribadian
+      experience: 5 Tahun
+      sipp: "20191405-2024-02-3405"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Anggriana Angguningtyas
+      title: M.Psi., Psikolog
+      category: Child & Adolescent Clinical Psychologist
+      image: images/psychologists/Anggun.jpg
+      icon: "images/family.png"
+      specializations:
+        - Gangguan perkembangan
+        - Gangguan belajar/ kecerdasan
+        - ADHD
+        - Autisme
+        - Masalah perilaku
+        - Relasi dan sosialisasi
+        - Regulasi emosi
+        - Trauma dan Stress Remaja
+      experience: 7 Tahun
+      sipp: "20161132-2024-01-4335"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Risky Adinda
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Dinda.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Depresi
+        - Kecemasan
+        - Masalah mood dan emosi
+        - Masalah hubungan interpersonal
+        - Hubungan romantis dan pranikah
+        - Karier dan pendidikan
+        - Stress dan burnout
+        - Pengembangan diri
+      experience: 5 Tahun
+      sipp: "20200628-2020-01-1289"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Ilham Anggi P
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Ilham.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Anxiety
+        - Insecurity & Overthinking
+        - Depresi
+        - Kesepian dan isu terkait hubungan intepersonal
+        - Regulasi emosi
+        - Stres kerja dan karir
+        - Pengembangan diri
+        - Hubungan romantis
+      experience: 6 Tahun
+      sipp: "20190006-2021-02-0709"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Dwi Ningsih A
+      title:  M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Nichi.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Depresi
+        - Gangguan Mood dan Emosi
+        - Stress dan Burn Out
+        - Self Esteem
+        - Anxiety
+        - Pengembangan diri
+        - Family and Relationship
+        - Gangguan Kepribadian
+      experience: 4 Tahun
+      sipp: "20181094-2020-01-0404"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Putri Dewinta
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Dewinta.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Kecemasan
+        - Gangguan kepribadian
+        - Pengembangan diri
+        - Pekerjaan & karir
+        - Regulasi emosi
+        - Relasi interpersonal/ hubungan romantis
+        - Gangguan mood
+        - ADHD
+      experience: 6 Tahun
+      sipp: "20180806-2021-02-1238"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Sekarini Andika Permatasari
+      title: M.Psi., Psikolog
+      category: Educational Psychologist
+      image: images/psychologists/Sekar.jpg
+      icon: "images/research-class.png"
+      specializations:
+        - Permasalahan belajar
+        - Kesiapan sekolah anak
+        - Stres, kecemasan, & pengendalian diri
+        - Hubungan pertemanan
+        - Pengasuhan anak
+        - Eksplorasi minat, bakat, & penjurusan
+        - Permasalahan & pengembangan karier
+        - Pengembangan potensi diri
+      experience: ">1 Tahun"
+      sipp: "20231126-2024-01-3432"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Riskia Ramadhina
+      title: M.Psi., Psikolog
+      category: Educational Psychologist
+      image: images/psychologists/Kia.jpg
+      icon: "images/research-class.png"
+      specializations:
+        - Kesiapan Sekolah Anak
+        - Anak Berkebutuhan Khusus (ABK)
+        - Motivasi & Performa Akademik
+        - Pola Asuh & Pengasuhan Anak
+        - Hubungan Orangtua & Anak
+        - Minat & Bakat
+        - Pengembangan Diri
+        - Bimbingan Karir
+      experience: ">1 Tahun"
+      sipp: "20240002-2024-01-3466"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Disa Nisrina Listiani
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Disa.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Kecemasan
+        - Depresi
+        - Gangguan Kepribadian
+        - Regulasi Emosi
+        - Manajemen Stres
+        - Transisi Kehidupan
+        - Pengembangan Diri
+        - Kehilangan dan Berduka
+      experience: ">1 Tahun"
+      sipp: "20240760-2024-01-3829"
+      whatsapp: "https://wa.me/6281234567890"
+    - name: Jeanete Ophilia Papilaya,
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Jean.jpg
+      icon: "images/adult-clinical.png"
+      specializations:
+        - Penanganan Emosi
+        - Kecemasan
+        - Depresi
+        - Trauma
+        - Konseling Pra Nikah
+        - Konseling Keluarga
+        - Penanganan Masalah Relationship
+      experience: 16 Tahun
+      sipp: "440/3378/Dinkes/2020"
+      whatsapp: "https://wa.me/6281234567890"
 
 #################################### Products ########################
 products:
@@ -114,7 +295,7 @@ contact_us:
   location_img: "images/loc.png"
   wa_button:
     enable: true
-    label: "Scan to contact us via Whatsapp"
+    label: "Click here to contact us via Whatsapp"
     link: "/"
 
 ############################## Testimonial ##########################
@@ -122,17 +303,12 @@ testimonial:
   enable: true
   title: "What they say about us"
   testimonial_item:
-    # testimonial item loop
     - name: "Klien - Counseling Online, 28 y.o."
       image: "images/q.png"
       content: "Sabar dan adaptif menangani klien yang malas dan maju-mundur progresnya. Selalu berusaha untuk memberikan tools yang doable."
-
-    # testimonial item loop
     - name: "Klien - Offline Psychotheraphy, 24 y.o."
       image: "images/q.png"
       content: "Going therapy here, was a truly bittersweet journey for me. It was very challenging but very deeply moving and growing for me… I always tell me friends about going here, and always recommend them to go here as #1 reference."
-
-    # testimonial item loop
     - name: "Klien - Online Psychotherapy, 31 y.o."
       image: "images/q.png"
       content: "Psikolog sangat memahami kebutuhan saya sehingga selama prosesnya pun tidak memburu-buru / memaksakan kehendaknya. Psikolog juga dapat memberikan ruang yg aman dan nyaman untuk saya bercerita."
