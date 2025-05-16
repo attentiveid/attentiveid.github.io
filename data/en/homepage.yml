@@ -49,6 +49,7 @@ psychologists:
     link: "/"
   items:
     - name: Syazka Kirani Narindra
+      nickname: Syazka
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Syazka.jpg
@@ -65,6 +66,7 @@ psychologists:
       experience: 6 Tahun
       sipp: "20190974-2021-02-1552"
     - name: Anggita Panjaitan
+      nickname: Gita
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Gita.jpg
@@ -81,6 +83,7 @@ psychologists:
       experience: 5 Tahun
       sipp: "20200657-2023-02-2669"
     - name: Ni Putu Mayda A. A
+      nickname: Mayda
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Mayda.jpg
@@ -97,6 +100,7 @@ psychologists:
       experience: 5 Tahun
       sipp: "20191405-2024-02-3405"
     - name: Anggriana Angguningtyas
+      nickname: Anggun
       title: M.Psi., Psikolog
       category: Child & Adolescent Clinical Psychologist
       image: images/psychologists/Anggun.jpg
@@ -113,6 +117,7 @@ psychologists:
       experience: 7 Tahun
       sipp: "20161132-2024-01-4335"
     - name: Risky Adinda
+      nickname: Dinda
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Dinda.jpg
@@ -129,6 +134,7 @@ psychologists:
       experience: 5 Tahun
       sipp: "20200628-2020-01-1289"
     - name: Ilham Anggi P
+      nickname: Ilham
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Ilham.jpg
@@ -145,6 +151,7 @@ psychologists:
       experience: 6 Tahun
       sipp: "20190006-2021-02-0709"
     - name: Dwi Ningsih A
+      nickname: Dwi
       title:  M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Nichi.jpg
@@ -161,6 +168,7 @@ psychologists:
       experience: 4 Tahun
       sipp: "20181094-2020-01-0404"
     - name: Putri Dewinta
+      nickname: Putri
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Dewinta.jpg
@@ -177,6 +185,7 @@ psychologists:
       experience: 6 Tahun
       sipp: "20180806-2021-02-1238"
     - name: Sekarini Andika Permatasari
+      nickname: Sekar
       title: M.Psi., Psikolog
       category: Educational Psychologist
       image: images/psychologists/Sekar.jpg
@@ -193,6 +202,7 @@ psychologists:
       experience: ">1 Tahun"
       sipp: "20231126-2024-01-3432"
     - name: Riskia Ramadhina
+      nickname: Riskia
       title: M.Psi., Psikolog
       category: Educational Psychologist
       image: images/psychologists/Kia.jpg
@@ -209,6 +219,7 @@ psychologists:
       experience: ">1 Tahun"
       sipp: "20240002-2024-01-3466"
     - name: Disa Nisrina Listiani
+      nickname: Disa
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Disa.jpg
@@ -225,6 +236,7 @@ psychologists:
       experience: ">1 Tahun"
       sipp: "20240760-2024-01-3829"
     - name: Jeanete Ophilia Papilaya,
+      nickname: Jeanette
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Jean.jpg
