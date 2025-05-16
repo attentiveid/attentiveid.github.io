@@ -45,7 +45,8 @@ author = "Attentive"
 
 currency = "IDR"
 contact_form_action = "#" # contact form works with https://formspree.io
-whatsappLink = "https://wa.me/yourwhatsapplinks"
+whatsappLink = "https://wa.me/6285156410912"
+instagramLink = "https://instagram.com/attentive.id"
 
 [params.preloader]
 enable = true
