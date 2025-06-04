@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  image: "images/hero.png"
+  image: "images/hero.webp"
 
 ############################# Feature ############################
 features:
@@ -12,7 +12,7 @@ features:
   content1: "Attentive (əˈten(t)iv) is a psychology service bureau that was established in 2020. Attentive provides scientific-based, measurable, and reliable psychology services in helping clients."
   content2: "Attentive seeks to understand human thoughts, feelings, and behavior with the aim of providing appropriate and effective assistance according to the needs of each client. All forms of treatment from professional counseling and psychoeducation to research are our way of showing our concern for your mental health."
   tagline: "#WeFocusOnYou"
-  image: "images/introduction.png"
+  image: "images/introduction.webp"
   button:
     enable: true
     label: "See Our Company Profile"
@@ -21,7 +21,7 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/core.png"
+  image: "images/core.webp"
   title: "How can we help?"
   content:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
@@ -30,13 +30,13 @@ promo:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
   items:
     - title: "Adult Psychotherapy"
-      icon: "images/core-icon-1.png"
+      icon: "images/core-icon-1.webp"
       content: "Our experienced therapists provide a safe and supportive environment to address various mental health concerns, develop coping strategies, and foster personal growth."
     - title: "Child & Adolescent Psychotherapy"
-      icon: "images/core-icon-2.png"
+      icon: "images/core-icon-2.webp"
       content: "Provide a safe and supportive space for young individuals to explore their emotions, develop coping strategies, address various mental health concerns, improve their mental well-being, and enhance their overall emotional health."
     - title: "Family or Couple Therapy"
-      icon: "images/core-icon-3.png"
+      icon: "images/core-icon-3.webp"
       content: "Our experienced therapists aim to help families and couples overcome challenges, strengthen their bond, and find effective solutions for a familial cohesiveness and more fulfilling partnership."
 
 ############################# psychologists ############################
@@ -51,8 +51,8 @@ psychologists:
     - name: Syazka Kirani Narindra
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Syazka.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Syazka.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Gangguan kepribadian
         - Trauma
@@ -68,8 +68,8 @@ psychologists:
     - name: Anggita Panjaitan
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Gita.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Gita.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Trauma & isu terkait emosi
         - ADHD Dewasa
@@ -85,8 +85,8 @@ psychologists:
     - name: Ni Putu Mayda A. A
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Mayda.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Mayda.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Hubungan romantis
         - Masalah dalam hubungan interpersonal
@@ -102,8 +102,8 @@ psychologists:
     - name: Anggriana Angguningtyas
       title: M.Psi., Psikolog
       category: Child & Adolescent Clinical Psychologist
-      image: images/psychologists/Anggun.jpg
-      icon: "images/family.png"
+      image: images/psychologists/Anggun.webp
+      icon: "images/family.webp"
       specializations:
         - Gangguan perkembangan
         - Gangguan belajar/ kecerdasan
@@ -119,8 +119,8 @@ psychologists:
     - name: Risky Adinda
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Dinda.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Dinda.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Depresi
         - Kecemasan
@@ -136,8 +136,8 @@ psychologists:
     - name: Ilham Anggi P
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Ilham.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Ilham.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Anxiety
         - Insecurity & Overthinking
@@ -153,8 +153,8 @@ psychologists:
     - name: Dwi Ningsih A
       title:  M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Nichi.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Nichi.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Depresi
         - Gangguan Mood dan Emosi
@@ -170,8 +170,8 @@ psychologists:
     - name: Putri Dewinta
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Dewinta.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Dewinta.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Kecemasan
         - Gangguan kepribadian
@@ -187,8 +187,8 @@ psychologists:
     - name: Sekarini Andika Permatasari
       title: M.Psi., Psikolog
       category: Educational Psychologist
-      image: images/psychologists/Sekar.jpg
-      icon: "images/research-class.png"
+      image: images/psychologists/Sekar.webp
+      icon: "images/research-class.webp"
       specializations:
         - Permasalahan belajar
         - Kesiapan sekolah anak
@@ -204,8 +204,8 @@ psychologists:
     - name: Riskia Ramadhina
       title: M.Psi., Psikolog
       category: Educational Psychologist
-      image: images/psychologists/Kia.jpg
-      icon: "images/research-class.png"
+      image: images/psychologists/Kia.webp
+      icon: "images/research-class.webp"
       specializations:
         - Kesiapan Sekolah Anak
         - Anak Berkebutuhan Khusus (ABK)
@@ -221,8 +221,8 @@ psychologists:
     - name: Disa Nisrina Listiani
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Disa.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Disa.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Kecemasan
         - Depresi
@@ -238,8 +238,8 @@ psychologists:
     - name: Jeanete Ophilia Papilaya,
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Jean.jpg
-      icon: "images/adult-clinical.png"
+      image: images/psychologists/Jean.webp
+      icon: "images/adult-clinical.webp"
       specializations:
         - Penanganan Emosi
         - Kecemasan
@@ -262,16 +262,16 @@ products:
     label: "See Our Product Catalogue"
     link: "/"
   items:
-    - icon: "images/research-class.png"
+    - icon: "images/research-class.webp"
       title: "Research Class"
       content: "Enhance your analytical skills with our specialized training where expert instructors guide you data analysis. Additionally, our research tutorial service provides expert guidance."
-    - icon: "images/int-apt-test.png"
+    - icon: "images/int-apt-test.webp"
       title: "Intelligence and Aptitude Test"
       content: "Covers various assessments including interest and aptitude tests, IQ assessments, Kraepelin tests, and consultations to guide them toward making informed decisions about their future endeavors."
-    - icon: "images/mock-itvw.png"
+    - icon: "images/mock-itvw.webp"
       title: "Mock Interview (Training)"
       content: "Support someone who wants to redefine their interview skills. Our facilitators will consist of HR Professionals who already conduct thousands of interviews in daily basis."
-    - icon: "images/mental-health-map.png"
+    - icon: "images/mental-health-map.webp"
       title: "Mental Health Mapping"
       content: "Offers a comprehensive assessment of the key factors influencing mental health outcomes in the workplace to provide actionable insights to help businesses and employees."
 
@@ -287,12 +287,12 @@ subscription:
 contact_us:
   enable: true
   title: "Contact Us"
-  qr_code: "images/qr-wa.png"
+  qr_code: "images/qr-wa.webp"
   qr_text: "Scan to contact us via Whatsapp"
-  wa_img: "images/wa.png"
+  wa_img: "images/wa.webp"
   content1: "Our Location:"
   content2: "Jl. Teratai IV No.4, RT.3/RW.2, Tj. Bar., Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12530"
-  location_img: "images/loc.png"
+  location_img: "images/loc.webp"
   wa_button:
     enable: true
     label: "Click here to contact us via Whatsapp"
@@ -304,11 +304,11 @@ testimonial:
   title: "What they say about us"
   testimonial_item:
     - name: "Klien - Counseling Online, 28 y.o."
-      image: "images/q.png"
+      image: "images/q.webp"
       content: "Sabar dan adaptif menangani klien yang malas dan maju-mundur progresnya. Selalu berusaha untuk memberikan tools yang doable."
     - name: "Klien - Offline Psychotheraphy, 24 y.o."
-      image: "images/q.png"
+      image: "images/q.webp"
       content: "Going therapy here, was a truly bittersweet journey for me. It was very challenging but very deeply moving and growing for me… I always tell me friends about going here, and always recommend them to go here as #1 reference."
     - name: "Klien - Online Psychotherapy, 31 y.o."
-      image: "images/q.png"
+      image: "images/q.webp"
       content: "Psikolog sangat memahami kebutuhan saya sehingga selama prosesnya pun tidak memburu-buru / memaksakan kehendaknya. Psikolog juga dapat memberikan ruang yg aman dan nyaman untuk saya bercerita."
