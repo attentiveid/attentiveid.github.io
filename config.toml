@@ -36,9 +36,9 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # Set default params
 [params]
-logo = "images/attentive-logo-01.png"
+logo = "images/attentive-logo-01.webp"
 logo_width="100px"
-burger_img = "images/burger.png"
+burger_img = "images/burger.webp"
 
 description = "This is meta description"
 author = "Attentive"
