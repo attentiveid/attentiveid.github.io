@@ -164,7 +164,7 @@ psychologists:
       premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Ilham,%20melalui%20website%20Attentive.id.%20(rp)"
     - name: Dwi Ningsih A
       nickname: Dwi
-      title:  M.Psi., Psikolog
+      title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
       image: images/psychologists/Nichi.webp
       icon: "images/adult-clinical.webp"
@@ -314,13 +314,19 @@ contact_us:
   qr_code: "images/qr-wa.webp"
   qr_text: "Scan to contact us via Whatsapp"
   wa_img: "images/wa.webp"
-  content1: "Our Location:"
-  content2: "Jl. Teratai IV No.4, RT.3/RW.2, Tj. Bar., Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12530"
-  location_img: "images/loc.webp"
   wa_button:
     enable: true
     label: "Click here to contact us via Whatsapp"
-    link: "/"
+    link: "https://wa.me/6285156410912"
+  location_img: "images/loc.webp"
+  location_title: "Our Locations"
+  locations:
+    - name: "Attentive. Jakarta"
+      address: "Jl. Teratai IV No.4, RT.3/RW.2, Tj. Barat, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12530"
+      maps_link: "https://maps.app.goo.gl/RKguhwdeM1w9LwC29"
+    - name: "Attentive. BSD"
+      address: "Delrey BizTown BSD Unit B8-9 Lt 2 Jalan Lkr Botanika Utara, Lengkong Kulon, Kec. Pagedangan, Kabupaten Tangerang, Banten 15531"
+      maps_link: "https://maps.app.goo.gl/8vfKnYFdj3GEQWYQ7"
 
 ############################## Testimonial ##########################
 testimonial:
