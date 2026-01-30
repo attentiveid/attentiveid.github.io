@@ -55,13 +55,13 @@ psychologists:
       image: images/psychologists/Syazka.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Gangguan kepribadian
+        - Personality Disorders
         - Trauma
-        - Gangguan mood (Depresi, distimia, bipolar)
+        - Mood Disorders (Depression, Dysthymia, Bipolar)
         - ADHD
-        - Relasi interpersonal / hubungan romantis
-        - Gangguan kecemasan
-        - Pengembangan Diri
+        - Interpersonal Relations / Romantic Relationships
+        - Anxiety Disorders
+        - Self-Development
         - OCD
       experience: 6 Tahun
       sipp: "20190974-2021-02-1552"
@@ -74,14 +74,14 @@ psychologists:
       image: images/psychologists/Anggita.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Trauma & isu terkait emosi
-        - ADHD Dewasa
-        - Gangguan Kecemasan
-        - Gangguan Kepribadian
-        - Relasi interpersonal/hubungan romantis
-        - Masalah terkait pekerjaan, karir, dan pengembangan diri
-        - Masalah terkait Gender
-        - Praktisi metode Brainspotting
+        - Trauma & Emotion-related Issues
+        - Adult ADHD
+        - Anxiety Disorders
+        - Personality Disorders
+        - Interpersonal/Romantic Relationships
+        - Work, Career, and Self-Development Issues
+        - Gender-related Issues
+        - Brainspotting Practitioner
       experience: 5 Tahun
       sipp: "20200657-2023-02-2669"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Anggita.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -93,14 +93,14 @@ psychologists:
       image: images/psychologists/Dwi.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Hubungan romantis
-        - Masalah dalam hubungan interpersonal
-        - Masalah dalam hubungan keluarga
-        - Kecemasan
-        - Masalah mood dan emosi
-        - Pekerjaan dan karir
-        - Stres dan burnout
-        - Gangguan kepribadian
+        - Romantic Relationships
+        - Interpersonal Relationship Issues
+        - Family Relationship Issues
+        - Anxiety
+        - Mood and Emotional Issues
+        - Work and Career
+        - Stress and Burnout
+        - Personality Disorders
       experience: 5 Tahun
       sipp: "20191405-2024-02-3405"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Ni%20Putu.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -112,14 +112,14 @@ psychologists:
       image: images/psychologists/Anggun.webp
       icon: "images/family.webp"
       specializations:
-        - Gangguan perkembangan
-        - Gangguan belajar/ kecerdasan
+        - Developmental Disorders
+        - Learning Disabilities / Intelligence
         - ADHD
-        - Autisme
-        - Masalah perilaku
-        - Relasi dan sosialisasi
-        - Regulasi emosi
-        - Trauma dan Stress Remaja
+        - Autism
+        - Behavioral Problems
+        - Social Relations and Socialization
+        - Emotional Regulation
+        - Adolescent Trauma and Stress
       experience: 7 Tahun
       sipp: "20161132-2024-01-4335"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Anggriana.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -131,14 +131,14 @@ psychologists:
       image: images/psychologists/Dinda.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Depresi
-        - Kecemasan
-        - Masalah mood dan emosi
-        - Masalah hubungan interpersonal
-        - Hubungan romantis dan pranikah
-        - Karier dan pendidikan
-        - Stress dan burnout
-        - Pengembangan diri
+        - Depression
+        - Anxiety
+        - Mood and Emotional Issues
+        - Interpersonal Relationship Issues
+        - Romantic and Premarital Relationships
+        - Career and Education
+        - Stress and Burnout
+        - Self-Development
       experience: 5 Tahun
       sipp: "20200628-2020-01-1289"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Risky%20Adinda.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -152,12 +152,12 @@ psychologists:
       specializations:
         - Anxiety
         - Insecurity & Overthinking
-        - Depresi
-        - Kesepian dan isu terkait hubungan intepersonal
-        - Regulasi emosi
-        - Stres kerja dan karir
-        - Pengembangan diri
-        - Hubungan romantis
+        - Depression
+        - Loneliness and Interpersonal Relationship Issues
+        - Emotional Regulation
+        - Work and Career Stress
+        - Self-Development
+        - Romantic Relationships
       experience: 6 Tahun
       sipp: "20190006-2021-02-0709"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Ilham.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -166,17 +166,17 @@ psychologists:
       nickname: Dwi
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Nichi.webp
+      image: images/psychologists/Dwi.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Depresi
-        - Gangguan Mood dan Emosi
-        - Stress dan Burn Out
+        - Depression
+        - Mood and Emotional Disorders
+        - Stress and Burnout
         - Self Esteem
         - Anxiety
-        - Pengembangan diri
+        - Self-Development
         - Family and Relationship
-        - Gangguan Kepribadian
+        - Personality Disorders
       experience: 4 Tahun
       sipp: "20181094-2020-01-0404"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Dwi.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -185,17 +185,17 @@ psychologists:
       nickname: Sekar
       title: M.Psi., Psikolog
       category: Educational Psychologist
-      image: images/psychologists/Sekar.webp
+      image: images/psychologists/Sekarini.webp
       icon: "images/research-class.webp"
       specializations:
-        - Permasalahan belajar
-        - Kesiapan sekolah anak
-        - Stres, kecemasan, & pengendalian diri
-        - Hubungan pertemanan
-        - Pengasuhan anak
-        - Eksplorasi minat, bakat, & penjurusan
-        - Permasalahan & pengembangan karier
-        - Pengembangan potensi diri
+        - Learning Problems
+        - School Readiness
+        - Stress, Anxiety, & Self-Control
+        - Friendship Relations
+        - Child Parenting
+        - Interest, Talent, & Major Exploration
+        - Career Problems & Development
+        - Self-Potential Development
       experience: ">1 Tahun"
       sipp: "20231126-2024-01-3432"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Sekarini.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -207,14 +207,14 @@ psychologists:
       image: images/psychologists/Disa.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Kecemasan
-        - Depresi
-        - Gangguan Kepribadian
-        - Regulasi Emosi
-        - Manajemen Stres
-        - Transisi Kehidupan
-        - Pengembangan Diri
-        - Kehilangan dan Berduka
+        - Anxiety
+        - Depression
+        - Personality Disorders
+        - Emotional Regulation
+        - Stress Management
+        - Life Transitions
+        - Self-Development
+        - Grief and Loss
       experience: ">1 Tahun"
       sipp: "20240760-2024-01-3829"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Disa.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -226,12 +226,12 @@ psychologists:
       image: images/psychologists/Andri.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Gangguan emosi
-        - Kecemasan
-        - Masalah relasi
-        - Kecemasan akademik
-        - Pengembangan diri
-        - Kecemasan dalam karir
+        - Emotional Disorders
+        - Anxiety
+        - Relationship Issues
+        - Academic Anxiety
+        - Self-Development
+        - Career Anxiety
       experience: ">1 Tahun"
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Andri.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -243,13 +243,13 @@ psychologists:
       image: images/psychologists/Jessica.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Kecemasan
-        - Masalah akademik dan pekerjaan
-        - Non-suicidal self-injury / self-harm
-        - Pengelolaan emosi
-        - Pengembangan dan penyesuaian diri
-        - Relasi interpersonal
-        - Stres dan burnout
+        - Anxiety
+        - Academic and Work Issues
+        - Non-suicidal Self-injury / Self-harm
+        - Emotional Management
+        - Self-Development and Adjustment
+        - Interpersonal Relations
+        - Stress and Burnout
       experience: ">1 Tahun"
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Jessica.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -261,14 +261,14 @@ psychologists:
       image: images/psychologists/Valencia.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Kecemasan
-        - Stres dan gejala somatik
-        - Depresi
+        - Anxiety
+        - Stress and Somatic Symptoms
+        - Depression
         - OCD
-        - Konflik hubungan personal / romantis
+        - Personal / Romantic Relationship Conflicts
         - ADHD
-        - Self-harm / Suicidal thoughts
-        - Adiksi pornografi
+        - Self-harm / Suicidal Thoughts
+        - Pornography Addiction
       experience: ">1 Tahun"
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Valencia.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -280,14 +280,14 @@ psychologists:
       image: images/psychologists/Audria.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Stres kerja dan karir
-        - Masalah hubungan romantis
-        - Masalah gender / identitas diri
-        - Masalah mood
-        - Masalah relasi sosial
-        - Manajemen stres
+        - Work and Career Stress
+        - Romantic Relationship Issues
+        - Gender / Identity Issues
+        - Mood Issues
+        - Social Relationship Issues
+        - Stress Management
         - Trauma
-        - Depresi
+        - Depression
       experience: "1 Tahun"
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Audria.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
@@ -295,7 +295,7 @@ psychologists:
     - name: Dr. Haykal Hafizul Arifin
       nickname: "Haykal"
       title: S.Psi., M.Si.
-      category: Social Psychologist"
+      category: Social Psychologist
       image: images/psychologists/Haykal.webp
       icon: "images/research-class.webp"
       specializations:
