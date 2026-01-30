@@ -71,7 +71,7 @@ psychologists:
       nickname: Gita
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Gita.webp
+      image: images/psychologists/Anggita.webp
       icon: "images/adult-clinical.webp"
       specializations:
         - Trauma & isu terkait emosi
@@ -90,7 +90,7 @@ psychologists:
       nickname: Mayda
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Mayda.webp
+      image: images/psychologists/Dwi.webp
       icon: "images/adult-clinical.webp"
       specializations:
         - Hubungan romantis
@@ -181,25 +181,6 @@ psychologists:
       sipp: "20181094-2020-01-0404"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Dwi.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
       premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Dwi,%20melalui%20website%20Attentive.id.%20(rp)"
-    - name: Putri Dewinta
-      nickname: Putri
-      title: M.Psi., Psikolog
-      category: Adult Clinical Psychologist
-      image: images/psychologists/Dewinta.webp
-      icon: "images/adult-clinical.webp"
-      specializations:
-        - Kecemasan
-        - Gangguan kepribadian
-        - Pengembangan diri
-        - Pekerjaan & karir
-        - Regulasi emosi
-        - Relasi interpersonal/ hubungan romantis
-        - Gangguan mood
-        - ADHD
-      experience: 6 Tahun
-      sipp: "20180806-2021-02-1238"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Putri.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Putri,%20melalui%20website%20Attentive.id.%20(rp)"
     - name: Sekarini Andika Permatasari
       nickname: Sekar
       title: M.Psi., Psikolog
@@ -219,25 +200,6 @@ psychologists:
       sipp: "20231126-2024-01-3432"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Sekarini.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
       premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Sekarini,%20melalui%20website%20Attentive.id.%20(rp)"
-    - name: Riskia Ramadhina
-      nickname: Riskia
-      title: M.Psi., Psikolog
-      category: Educational Psychologist
-      image: images/psychologists/Kia.webp
-      icon: "images/research-class.webp"
-      specializations:
-        - Kesiapan Sekolah Anak
-        - Anak Berkebutuhan Khusus (ABK)
-        - Motivasi & Performa Akademik
-        - Pola Asuh & Pengasuhan Anak
-        - Hubungan Orangtua & Anak
-        - Minat & Bakat
-        - Pengembangan Diri
-        - Bimbingan Karir
-      experience: ">1 Tahun"
-      sipp: "20240002-2024-01-3466"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Riskia.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Riskia,%20melalui%20website%20Attentive.id.%20(rp)"
     - name: Disa Nisrina Listiani
       nickname: Disa
       title: M.Psi., Psikolog
@@ -257,24 +219,154 @@ psychologists:
       sipp: "20240760-2024-01-3829"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Disa.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
       premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Disa,%20melalui%20website%20Attentive.id.%20(rp)"
-    - name: Jeanete Ophilia Papilaya,
-      nickname: Jeanette
+    - name: Mohammad Andri Khaeranu
+      nickname: "Andri"
       title: M.Psi., Psikolog
       category: Adult Clinical Psychologist
-      image: images/psychologists/Jean.webp
+      image: images/psychologists/Andri.webp
       icon: "images/adult-clinical.webp"
       specializations:
-        - Penanganan Emosi
+        - Gangguan emosi
         - Kecemasan
+        - Masalah relasi
+        - Kecemasan akademik
+        - Pengembangan diri
+        - Kecemasan dalam karir
+      experience: ">1 Tahun"
+      sipp: "-"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Andri.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Andri,%20melalui%20website%20Attentive.id.%20(rp)"
+    - name: Jessica Raphaela
+      nickname: "Jessica"
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Jessica.webp
+      icon: "images/adult-clinical.webp"
+      specializations:
+        - Kecemasan
+        - Masalah akademik dan pekerjaan
+        - Non-suicidal self-injury / self-harm
+        - Pengelolaan emosi
+        - Pengembangan dan penyesuaian diri
+        - Relasi interpersonal
+        - Stres dan burnout
+      experience: ">1 Tahun"
+      sipp: "-"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Jessica.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jessica,%20melalui%20website%20Attentive.id.%20(rp)"
+    - name: Valencia Yang
+      nickname: "Cia"
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Valencia.webp
+      icon: "images/adult-clinical.webp"
+      specializations:
+        - Kecemasan
+        - Stres dan gejala somatik
         - Depresi
+        - OCD
+        - Konflik hubungan personal / romantis
+        - ADHD
+        - Self-harm / Suicidal thoughts
+        - Adiksi pornografi
+      experience: ">1 Tahun"
+      sipp: "-"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Valencia.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Valencia,%20melalui%20website%20Attentive.id.%20(rp)"
+    - name: Audria Putri Salsabila Syarif
+      nickname: "Audria"
+      title: S.Psi., Psikolog
+      category: General Psychologist
+      image: images/psychologists/Audria.webp
+      icon: "images/adult-clinical.webp"
+      specializations:
+        - Stres kerja dan karir
+        - Masalah hubungan romantis
+        - Masalah gender / identitas diri
+        - Masalah mood
+        - Masalah relasi sosial
+        - Manajemen stres
         - Trauma
-        - Konseling Pra Nikah
-        - Konseling Keluarga
-        - Penanganan Masalah Relationship
-      experience: 16 Tahun
-      sipp: "440/3378/Dinkes/2020"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Jeanete.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jeanete,%20melalui%20website%20Attentive.id.%20(rp)"
+        - Depresi
+      experience: "1 Tahun"
+      sipp: "-"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Audria.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Audria,%20melalui%20website%20Attentive.id.%20(rp)"
+    - name: Dr. Haykal Hafizul Arifin
+      nickname: "Haykal"
+      title: S.Psi., M.Si.
+      category: Social Psychologist"
+      image: images/psychologists/Haykal.webp
+      icon: "images/research-class.webp"
+      specializations:
+        - Meaning and Purpose in Life
+        - Critical Thinking
+        - Personality Structure
+        - Learning, Efficacy, and Procrastination
+        - Research Methods and Experimental Psychology
+        - Self Control
+        - Violent Extremism
+        - Freedom and Autonomy
+      experience: "12 Tahun"
+      sipp: "-"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Dr.%20Haykal.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Dr.%20Haykal,%20melalui%20website%20Attentive.id.%20(rp)"
+    # - name: Jeanete Ophilia Papilaya,
+    #   nickname: Jeanette
+    #   title: M.Psi., Psikolog
+    #   category: Adult Clinical Psychologist
+    #   image: images/psychologists/Jean.webp
+    #   icon: "images/adult-clinical.webp"
+    #   specializations:
+    #     - Penanganan Emosi
+    #     - Kecemasan
+    #     - Depresi
+    #     - Trauma
+    #     - Konseling Pra Nikah
+    #     - Konseling Keluarga
+    #     - Penanganan Masalah Relationship
+    #   experience: 16 Tahun
+    #   sipp: "440/3378/Dinkes/2020"
+    #   reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Jeanete.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+    #   premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jeanete,%20melalui%20website%20Attentive.id.%20(rp)"
+    # - name: Putri Dewinta
+    #   nickname: Putri
+    #   title: M.Psi., Psikolog
+    #   category: Adult Clinical Psychologist
+    #   image: images/psychologists/Dewinta.webp
+    #   icon: "images/adult-clinical.webp"
+    #   specializations:
+    #     - Kecemasan
+    #     - Gangguan kepribadian
+    #     - Pengembangan diri
+    #     - Pekerjaan & karir
+    #     - Regulasi emosi
+    #     - Relasi interpersonal/ hubungan romantis
+    #     - Gangguan mood
+    #     - ADHD
+    #   experience: 6 Tahun
+    #   sipp: "20180806-2021-02-1238"
+    #   reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Putri.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+    #   premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Putri,%20melalui%20website%20Attentive.id.%20(rp)"
+    # - name: Riskia Ramadhina
+    #   nickname: Riskia
+    #   title: M.Psi., Psikolog
+    #   category: Educational Psychologist
+    #   image: images/psychologists/Kia.webp
+    #   icon: "images/research-class.webp"
+    #   specializations:
+    #     - Kesiapan Sekolah Anak
+    #     - Anak Berkebutuhan Khusus (ABK)
+    #     - Motivasi & Performa Akademik
+    #     - Pola Asuh & Pengasuhan Anak
+    #     - Hubungan Orangtua & Anak
+    #     - Minat & Bakat
+    #     - Pengembangan Diri
+    #     - Bimbingan Karir
+    #   experience: ">1 Tahun"
+    #   sipp: "20240002-2024-01-3466"
+    #   reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Riskia.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+    #   premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Riskia,%20melalui%20website%20Attentive.id.%20(rp)"
 
 #################################### Products ########################
 products:
