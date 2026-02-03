@@ -99,7 +99,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Other Product"
 pre = "#"
-url = "other"
+url = "products"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -135,7 +135,7 @@ weight = 3
 [[Languages.en.menu.footer]]
 name = "Other Product"
 pre = "#"
-url = "other"
+url = "products"
 weight = 4
 
 [[Languages.en.menu.footer]]

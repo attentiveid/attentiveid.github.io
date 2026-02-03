@@ -105,6 +105,24 @@ psychologists:
       sipp: "20191405-2024-02-3405"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Ni%20Putu.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
       premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Ni%20Putu,%20melalui%20website%20Attentive.id.%20(rp)"
+    - name: Jeanete Ophilia Papilaya,
+      nickname: Jeanette
+      title: M.Psi., Psikolog
+      category: Adult Clinical Psychologist
+      image: images/psychologists/Jeanete.webp
+      icon: "images/adult-clinical.webp"
+      specializations:
+        - Emotional Regulation
+        - Anxiety
+        - Depression
+        - Trauma
+        - Pre-marital Counseling
+        - Family Counseling
+        - Relationship Issues
+      experience: 16 Tahun
+      sipp: "440/3378/Dinkes/2020"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Jeanete.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jeanete,%20melalui%20website%20Attentive.id.%20(rp)"
     - name: Anggriana Angguningtyas
       nickname: Anggun
       title: M.Psi., Psikolog
@@ -311,24 +329,6 @@ psychologists:
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Dr.%20Haykal.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
       premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Dr.%20Haykal,%20melalui%20website%20Attentive.id.%20(rp)"
-    # - name: Jeanete Ophilia Papilaya,
-    #   nickname: Jeanette
-    #   title: M.Psi., Psikolog
-    #   category: Adult Clinical Psychologist
-    #   image: images/psychologists/Jean.webp
-    #   icon: "images/adult-clinical.webp"
-    #   specializations:
-    #     - Penanganan Emosi
-    #     - Kecemasan
-    #     - Depresi
-    #     - Trauma
-    #     - Konseling Pra Nikah
-    #     - Konseling Keluarga
-    #     - Penanganan Masalah Relationship
-    #   experience: 16 Tahun
-    #   sipp: "440/3378/Dinkes/2020"
-    #   reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Jeanete.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-    #   premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jeanete,%20melalui%20website%20Attentive.id.%20(rp)"
     # - name: Putri Dewinta
     #   nickname: Putri
     #   title: M.Psi., Psikolog
@@ -425,12 +425,12 @@ testimonial:
   enable: true
   title: "What they say about us"
   testimonial_item:
-    - name: "Klien - Counseling Online, 28 y.o."
+    - name: "Client - Online Counseling, 28 y.o."
       image: "images/q.webp"
-      content: "Sabar dan adaptif menangani klien yang malas dan maju-mundur progresnya. Selalu berusaha untuk memberikan tools yang doable."
-    - name: "Klien - Offline Psychotheraphy, 24 y.o."
+      content: "Patient and adaptive in handling clients with fluctuating commitment and progress, consistently providing tools that are feasible and actionable."
+    - name: "Client - Offline Psychotherapy, 24 y.o."
       image: "images/q.webp"
       content: "Going therapy here, was a truly bittersweet journey for me. It was very challenging but very deeply moving and growing for me… I always tell me friends about going here, and always recommend them to go here as #1 reference."
-    - name: "Klien - Online Psychotherapy, 31 y.o."
+    - name: "Client - Online Psychotherapy, 31 y.o."
       image: "images/q.webp"
-      content: "Psikolog sangat memahami kebutuhan saya sehingga selama prosesnya pun tidak memburu-buru / memaksakan kehendaknya. Psikolog juga dapat memberikan ruang yg aman dan nyaman untuk saya bercerita."
+      content: "The psychologist shows great understanding of my needs, avoiding pressure and allowing me to progress at my own pace. They provide a safe and comfortable space for me to share my thoughts and feelings."
