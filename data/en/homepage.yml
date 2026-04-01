@@ -66,7 +66,7 @@ psychologists:
       experience: 6 Tahun
       sipp: "20190974-2021-02-1552"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Syazka.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Syazka,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Syazka,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Anggita Panjaitan
@@ -86,8 +86,8 @@ psychologists:
         - Brainspotting Practitioner
       experience: 5 Tahun
       sipp: "20200657-2023-02-2669"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Anggita.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Anggita,%20melalui%20website%20Attentive.id.%20(rp)"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Gita.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Anggita,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Ni Putu Mayda A. A
@@ -107,8 +107,8 @@ psychologists:
         - Personality Disorders
       experience: 5 Tahun
       sipp: "20191405-2024-02-3405"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Ni%20Putu.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Ni%20Putu,%20melalui%20website%20Attentive.id.%20(rp)"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Ni%20Mayda.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Ni%20Putu,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Jeanete Ophilia Papilaya,
@@ -128,7 +128,7 @@ psychologists:
       experience: 16 Tahun
       sipp: "440/3378/Dinkes/2020"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Jeanete.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jeanete,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jeanete,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Anggriana Angguningtyas
@@ -148,8 +148,8 @@ psychologists:
         - Adolescent Trauma and Stress
       experience: 7 Tahun
       sipp: "20161132-2024-01-4335"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Anggriana.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Anggriana,%20melalui%20website%20Attentive.id.%20(rp)"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Anggun.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Anggriana,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Risky Adinda
@@ -169,8 +169,8 @@ psychologists:
         - Self-Development
       experience: 5 Tahun
       sipp: "20200628-2020-01-1289"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Risky%20Adinda.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Anggita,%20melalui%20website%20Attentive.id.%20(rp)"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Dinda.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Anggita,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Ilham Anggi P
@@ -191,7 +191,7 @@ psychologists:
       experience: 6 Tahun
       sipp: "20190006-2021-02-0709"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Ilham.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Ilham,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Ilham,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "BSD"
     - name: Dwi Ningsih A
@@ -212,7 +212,7 @@ psychologists:
       experience: 4 Tahun
       sipp: "20181094-2020-01-0404"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Dwi.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Dwi,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Dwi,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Sekarini Andika Permatasari
@@ -232,8 +232,8 @@ psychologists:
         - Self-Potential Development
       experience: ">1 Tahun"
       sipp: "20231126-2024-01-3432"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Sekarini.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Sekarini,%20melalui%20website%20Attentive.id.%20(rp)"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Sekar.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Sekarini,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Disa Nisrina Listiani
@@ -254,7 +254,7 @@ psychologists:
       experience: ">1 Tahun"
       sipp: "20240760-2024-01-3829"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Disa.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Disa,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Disa,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Mohammad Andri Khaeranu
@@ -273,7 +273,7 @@ psychologists:
       experience: ">1 Tahun"
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Andri.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Andri,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Andri,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     - name: Jessica Raphaela
@@ -293,7 +293,7 @@ psychologists:
       experience: ">1 Tahun"
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Jessica.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jessica,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Jessica,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "BSD"
     - name: Valencia Yang
@@ -313,8 +313,8 @@ psychologists:
         - Pornography Addiction
       experience: ">1 Tahun"
       sipp: "-"
-      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Valencia.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Valencia,%20melalui%20website%20Attentive.id.%20(rp)"
+      reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Cia.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Valencia,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "BSD"
     - name: Audria Putri Salsabila Syarif
@@ -335,7 +335,7 @@ psychologists:
       experience: "1 Tahun"
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Audria.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Audria,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Audria,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "BSD"
     - name: Dr. Haykal Hafizul Arifin
@@ -356,7 +356,7 @@ psychologists:
       experience: "12 Tahun"
       sipp: "-"
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Dr.%20Haykal.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20(rp)"
-      premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Dr.%20Haykal,%20melalui%20website%20Attentive.id.%20(rp)"
+      #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Dr.%20Haykal,%20melalui%20website%20Attentive.id.%20(rp)"
       locations:
         - "Jakarta"
     # - name: Putri Dewinta
@@ -428,6 +428,33 @@ subscription:
   title: "Get Product Updates"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
   placeholder: "Your Email Address Here"
+
+################################## Insights ####################
+insights:
+  enable: true
+  title: "Mental Health Insights"
+  subtitle: "Curated articles from our partners"
+  items:
+    - title: "Preparing for Ramadan in the Quiet Corners of the West"
+      summary: "There is a particular stillness that comes before Ramadan. It does not arrive all at once..."
+      url: "https://muzz.com/us/en/blog/lifestyle/preparing-for-ramadan-in-the-west/"
+      image: "images/insights/ramadan.png"
+      source: "Muzz"
+    - title: "The Five Love Languages, From A Muslim Lens"
+      summary: "In Islam, love is a central and multifaceted concept, encompassing love for God, humanity, and relationships..."
+      url: "https://muzz.com/us/en/blog/lifestyle/the-five-love-languages-from-a-muslim-lens/"
+      image: "images/insights/love-languages.png"
+      source: "Muzz"
+    - title: "Can Muslim Men and Women Be Friends?"
+      summary: "It's one of the most common questions Muslims ask, especially those living in Western societies..."
+      url: "https://muzz.com/us/en/blog/lifestyle/can-muslim-men-and-women-be-friends-the-islamic-perspective-for-life-in-the-west/"
+      image: "images/insights/friends.jpg"
+      source: "Muzz"
+    - title: "Expressing Faith and Identity in Love"
+      summary: "How fashion and culture influence the way Muslims view love, relationships and marriages today..."
+      url: "https://muzz.com/us/en/blog/lifestyle/expressing-faith-and-identity-in-love-london-fashion-week-2025/"
+      image: "images/insights/fashion-week.png"
+      source: "Muzz"
 
 ############################## Contact Us ######################
 contact_us:
