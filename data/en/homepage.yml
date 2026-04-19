@@ -356,7 +356,7 @@ psychologists:
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Farah.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20"
       #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Audria,%20melalui%20website%20Attentive.id.%20"
       locations:
-        - "BSD"    
+        - "BSD"
     - name: Angelina Gabriella Suliyanto
       nickname: "Angel"
       title: S.Psi., Psikolog
@@ -376,7 +376,7 @@ psychologists:
       reservationlink: "https://wa.me/6285156410912?text=Halo%20admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20dengan%20Psikolog%20Angel.%20Saya%20menghubungi%20dari%20website%20Attentive.id.%20Mohon%20informasinya%20mengenai%20ketersediaan%20jadwal.%20Terima%20kasih.%20"
       #premiumlink: "https://wa.me/6285156410912?text=Halo%20Admin%20Attentive.id,%20saya%20ingin%20melakukan%20reservasi%20sesi%20konsultasi%20premium%20dengan%20Psikolog%20Audria,%20melalui%20website%20Attentive.id.%20"
       locations:
-        - "BSD"    
+        - "BSD"
     - name: Dr. Haykal Hafizul Arifin
       nickname: "Haykal"
       title: S.Psi., M.Si.
@@ -474,25 +474,10 @@ insights:
   title: "Mental Health Insights"
   subtitle: "Curated articles from our partners"
   items:
-    - title: "Preparing for Ramadan in the Quiet Corners of the West"
-      summary: "There is a particular stillness that comes before Ramadan. It does not arrive all at once..."
-      url: "https://muzz.com/us/en/blog/lifestyle/preparing-for-ramadan-in-the-west/"
-      image: "images/insights/ramadan.png"
-      source: "Muzz"
-    - title: "The Five Love Languages, From A Muslim Lens"
-      summary: "In Islam, love is a central and multifaceted concept, encompassing love for God, humanity, and relationships..."
-      url: "https://muzz.com/us/en/blog/lifestyle/the-five-love-languages-from-a-muslim-lens/"
-      image: "images/insights/love-languages.png"
-      source: "Muzz"
-    - title: "Can Muslim Men and Women Be Friends?"
-      summary: "It's one of the most common questions Muslims ask, especially those living in Western societies..."
-      url: "https://muzz.com/us/en/blog/lifestyle/can-muslim-men-and-women-be-friends-the-islamic-perspective-for-life-in-the-west/"
-      image: "images/insights/friends.jpg"
-      source: "Muzz"
-    - title: "Expressing Faith and Identity in Love"
-      summary: "How fashion and culture influence the way Muslims view love, relationships and marriages today..."
-      url: "https://muzz.com/us/en/blog/lifestyle/expressing-faith-and-identity-in-love-london-fashion-week-2025/"
-      image: "images/insights/fashion-week.png"
+    - title: "Stuck Pas PDKT sama Crush? Cari Tahu Attachment Style Kamu di Sini!"
+      summary: "Pernah nggak, kamu lagi deket sama seseorang, mungkin kenalan dari aplikasi cari jodoh, trus tiba-tiba muncul pikiran, “chatku bikin dia ilfeel nggak ya?” atau “ah paling dia ngomong gitu biar aku seneng aja.” Ujung-ujungnya, percakapan jadi mati, nggak seru, bahkan berakhir di-ghosting...."
+      url: "https://muzz.com/id/id/blog/relationships/stuck-pas-pdkt-sama-crush-cari-tahu-attachment-style-kamu-di-sini/"
+      image: "images/insights/blog1.jpg"
       source: "Muzz"
 
 ############################## Contact Us ######################
